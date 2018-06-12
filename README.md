@@ -15,3 +15,7 @@ Another random text paragraph in the purpose section for learning github
 This is a simple web project, deployment can be on any web server or even local server
 
 ## How to contribute
+
+### Copyright
+
+20Git.Training
